@@ -13,7 +13,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciorocha1968&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-### Linguagens que trabalho
 <div style="display: inline_block">
   <img align="center" alt="Mfr-Delphi" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/delphi-svgrepo-com.svg">
   <img align="center" alt="Mfr-VCode" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/visual-studio-code-logo-svgrepo-com.svg">  
