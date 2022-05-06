@@ -4,7 +4,7 @@
 - Estudando MongoDB, Firebase, Typescript, Node.js, Next.JS, React e React Native.
 
 ### Meu objetivo
-- Me tornar especialista em desenvolvimento Web e Mobile com Next.JS e React Native e poder ajudar a comunidade de alguma forma.
+- Ser especialista em desenvolvimento Web e Mobile com Next.JS e React Native e poder ajudar a comunidade de alguma forma.
 
 ### Minhas atividades no GitHub
 <div align="center">
