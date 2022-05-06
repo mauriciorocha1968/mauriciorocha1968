@@ -17,14 +17,12 @@ Me especializei em Delphi da versão 1.0 até a versão XE1, me tornando instrut
   
 ### Linguagens que trabalho
 <div style="display: inline_block">
-  <img align="center" alt="Mfr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mfr-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Mfr-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Mfr-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
-  <img align="center" alt="Mfr-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Mfr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mfr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mfr-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Mfr-Csharp" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/csharp-svgrepo-com.svg">
+  <img align="center" alt="Mfr-Csharp" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/csharp-svgrepo-com.svg">
+  <img align="center" alt="Mfr-Csharp" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/csharp-svgrepo-com.svg">
+  <img align="center" alt="Mfr-Csharp" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/csharp-svgrepo-com.svg">
+  <img align="center" alt="Mfr-Csharp" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/csharp-svgrepo-com.svg">
+  <img align="center" alt="Mfr-Csharp" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/csharp-svgrepo-com.svg">
   <img align="center" alt="Mfr-Csharp" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/csharp-svgrepo-com.svg">
 </div>
   
