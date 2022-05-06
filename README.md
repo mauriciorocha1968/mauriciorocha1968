@@ -11,8 +11,8 @@ Me especializei em Delphi da versão 1.0 até a versão XE1, me tornando instrut
 ### Minhas atividades no GitHub
 <div align="center">
   <a href="https://github.com/mauriciorocha1968">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciorocha1968&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciorocha1968&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciorocha1968&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciorocha1968&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ### Linguagens que trabalho
@@ -27,20 +27,4 @@ Me especializei em Delphi da versão 1.0 até a versão XE1, me tornando instrut
   <img align="center" alt="Mfr-Node" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/nodejs-icon-svgrepo-com.svg">
   <img align="center" alt="Mfr-Next" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/next-js-svgrepo-com.svg">
   <img align="center" alt="Mfr-ReactNative" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/react-svgrepo-com.svg">
-
-
 </div>
-  
-  
-  
-
-
-
-
-
-
-
-
-
-
-
