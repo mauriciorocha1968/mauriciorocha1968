@@ -1,7 +1,5 @@
 ## Maurício Fernandes da Rocha
-- Trabalho com TI desde 1.989. Conheço linguagens como Cobol, Clipper, Magic, Visual Basic, Visual Fox Pró.
-Me especializei em Delphi da versão 1.0 até a versão XE1, me tornando instrutor certificado pela Borland e também tirei algumas certificações Microoft como Windows 95 e AspNet MVC com C#.
-- Atualmente faço consultorias pela [KM Inova](https://kminova.dev) em Delphi com banco de dados relacionais como MS-SQL Server, Oracle, Informix e Firebird. 
+- Diretor da [KM Inova](https://kminova.dev) onde prestamos consultoria em Delphi com banco de dados relacionais como MS-SQL Server, Oracle, Informix e Firebird. 
 - Embaixador Universitário pela [DIO Experts](https://dio.me/sign-up?ref=8QDRNPHWXD) para treinamentos gratuitos on-line.
 - Estudando MongoDB, Firebase, Typescript, Node.js, Next.JS, React e React Native.
 
