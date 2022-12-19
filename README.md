@@ -44,11 +44,11 @@
     </a>
     <div style="border-radius: 100%;
     overflow: hidden;
-    height: 100px;
-    width:100px;
+    height: 30px;
+    width:30px;
     background: yellow;">
     <a href="https://www.devexpress.com/">
-      <img align="center" alt="Mfr-DevExpress" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/devexpress.png"  >
+      <img align="center" alt="Mfr-DevExpress" width="100%"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/devexpress.png"  >
     </a>
     </div>
   </div>
