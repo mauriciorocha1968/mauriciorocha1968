@@ -47,7 +47,7 @@
     </a>
   </div>
   <br/>
-  <div align="center" padding="5px">
+  <div align="center" >
     <a href="https://www.embarcadero.com/br/products/delphi">
       <img align="center" alt="Mfr-Delphi" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/delphi-svgrepo-com.svg">
     </a>
