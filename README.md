@@ -66,7 +66,7 @@
         <img align="center" alt="Mfr-Csharp" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/csharp-svgrepo-com.svg">
       </a>
       <a href="https://www.mongodb.com/home" target="_blank">
-        <img align="center" alt="Mfr-MongoDB" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/mongo-db.png">
+        <img align="center" alt="Mfr-MongoDB" height="40" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/mongo-db.png">
       </a>
       <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank">
         <img align="center" alt="Mfr-SqlServer" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/microsoft-sql-server.png">
@@ -78,7 +78,7 @@
         <img align="center" alt="Mfr-MySql" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/mysql.png">
       </a>
       <a href="https://www.oracle.com/br/database/" target="_blank">
-        <img align="center" alt="Mfr-Oracle" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/oracle.png">
+        <img align="center" alt="Mfr-Oracle" height="40" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/oracle.png">
       </a>
     </div>
   </div>
