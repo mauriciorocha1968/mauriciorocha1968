@@ -45,10 +45,8 @@
     <a href="https://www.devexpress.com/">
       <img align="center" alt="Mfr-DevExpress" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/devexpress.png"  >
     </a>
-    <div class=" border-radius: 50%;
-  background-position: -15px -15px;
-  height: 195px;
-  width: 195px;" style="background-image: url(http://i.stack.imgur.com/AyzfI.jpg)"></div>  </div>
+    <div style="background-image: url(http://i.stack.imgur.com/AyzfI.jpg)"></div>  
+  </div>
   <br/>
   <div align="center" >
     <div style="display: inline_block">
