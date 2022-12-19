@@ -28,6 +28,6 @@
     <img align="center" alt="Mfr-Node" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/nodejs-icon-svgrepo-com.svg">
     <img align="center" alt="Mfr-Next" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/next-js-svgrepo-com.svg">
     <img align="center" alt="Mfr-ReactNative" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/react-svgrepo-com.svg">
-    <img align="center" alt="Mfr-DevExpress" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/devexpress.png">
+    <img align="center" alt="Mfr-DevExpress" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/devexpress.png">
   </div>
 </div>
