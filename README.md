@@ -13,19 +13,14 @@
 <head>
 <style>
 .myDiv {
-  border: 0px outset red;
-  background-color: white;    
+  border: 5px outset red;
+  background-color: lightblue;    
   text-align: center;
-  border-radius: 50%;
-  width: 40px;
-  height: 40px;
-}
-.myImg {
-  width: 100%
+  border-radius: 100%
 }
 </style>
 </head>
-<div align="center">
+<div align="center" >
   <a href="https://github.com/mauriciorocha1968">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mauriciorocha1968&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciorocha1968&layout=compact&langs_count=7&theme=dark"/>
@@ -70,8 +65,9 @@
       <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
         <img align="center" alt="Mfr-Csharp" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/csharp-svgrepo-com.svg">
       </a>
-      <div class="myDiv">
-      </div>
+      <a href="https://www.mongodb.com/home" target="_blank">
+        <img align="center" alt="Mfr-MongoDB" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/mongo-db.png">
+      </a>
       <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank">
         <img align="center" alt="Mfr-SqlServer" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/microsoft-sql-server.png">
       </a>
