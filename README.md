@@ -13,12 +13,12 @@
 <head>
 <style>
 .myDiv {
-  border: 1px outset red;
+  border: 0px outset red;
   background-color: white;    
   text-align: center;
-  border-radius: 100%;
-  width: 30px;
-  height: 30px;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
 }
 .myImg {
   width: 100%
@@ -71,9 +71,6 @@
         <img align="center" alt="Mfr-Csharp" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/csharp-svgrepo-com.svg">
       </a>
       <div class="myDiv">
-      <a href="https://www.mongodb.com/home" target="_blank">
-        <img class="myImg" alt="Mfr-MongoDB"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/mongo-db.png">
-      </a>
       </div>
       <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank">
         <img align="center" alt="Mfr-SqlServer" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/microsoft-sql-server.png">
