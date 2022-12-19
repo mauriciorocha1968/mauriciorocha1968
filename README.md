@@ -38,7 +38,7 @@
       <img align="center" alt="Mfr-Html5" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/html5-svgrepo-com.svg">
     </a>
     <a href="https://www.w3c.br/Cursos/CursoCSS3/" target="_blank">
-      <img align="center" alt="Mfr-Css3" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/css3-logo-svgrepo-com.svg">
+      <img align="center" alt="Mfr-Css3" height="40" width="50"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/css3-logo-svgrepo-com.svg">
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank">
       <img align="center" alt="Mfr-Typescript" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/typescript-svgrepo-com.svg">  
