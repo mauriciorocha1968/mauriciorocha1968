@@ -18,7 +18,9 @@
 <br> 
 <div align="center">
   <div style="display: inline_block">
+    <a href="https://www.embarcadero.com/br/products/delphi">
     <img align="center" alt="Mfr-Delphi" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/delphi-svgrepo-com.svg">
+    </a>
     <img align="center" alt="Mfr-VCode" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/visual-studio-code-logo-svgrepo-com.svg">  
     <img align="center" alt="Mfr-Csharp" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/csharp-svgrepo-com.svg">
     <img align="center" alt="Mfr-Javascript" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/javascript-svgrepo-com.svg">
