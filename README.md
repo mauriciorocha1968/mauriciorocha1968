@@ -55,11 +55,9 @@
       <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">
         <img align="center" alt="Mfr-Csharp" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/csharp-svgrepo-com.svg">
       </a>
-      <div style="background: yellow">
-        <a href="https://www.mongodb.com/home">
-          <img align="center" alt="Mfr-MongoDB" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/mongo-db.png">
-        </a>
-      </div>
+      <a href="https://www.mongodb.com/home">
+        <img align="center" alt="Mfr-MongoDB" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/mongo-db.png">
+      </a>
       <a href="https://www.microsoft.com/pt-br/sql-server">
         <img align="center" alt="Mfr-SqlServer" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/microsoft-sql-server.png">
       </a>
