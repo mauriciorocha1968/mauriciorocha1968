@@ -67,7 +67,7 @@
       <a href="https://www.mysql.com/" target="_blank">
         <img align="center" alt="Mfr-MySql" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/mysql.png">
       </a>
-      <a href="https://www.oracle.com/br/database/" target="_blank">
+      <a href="https://www.oracle.com/br/database/" target="_blank">Oracle
         <img align="center" alt="Mfr-Oracle" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/oracle.png">
       </a>
     </div>
