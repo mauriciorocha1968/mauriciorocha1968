@@ -1,6 +1,6 @@
 ## Maurício Fernandes da Rocha
 
-- Diretor da [KMInova](https://kminova.dev) onde prestamos consultoria em informática com desenvolvimento de sistemas utilizando Node.js, Nest.js, React, Delphi com banco de dados relacionais como MS-SQL Server, Oracle, Informix, Firebird e banco de dados NoSQL como MongoDB.
+- Diretor da [KMInova](https://kminova.dev) onde prestamos consultoria em informática com desenvolvimento de sistemas utilizando Node.js, Nest.js, React, Delphi com banco de dados relacionais como MS-SQL Server, Oracle, MySql, Firebird e banco de dados NoSQL como MongoDB.
 - Embaixador Universitário pela [DIO Experts](https://dio.me/sign-up?ref=8QDRNPHWXD) para treinamentos gratuitos on-line.
 - Atualmente fazendo projetos com MongoDB, Firebase, Typescript, Node.js, Next.JS, React, React Native e DevExtreme.
 
@@ -50,6 +50,23 @@
     </a>
     <a href="https://www.devexpress.com/">
       <img align="center" alt="Mfr-DevExpress" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/devexpress.png">
+    </a>
+  </div>
+  <div align="center">
+    <a href="https://www.mongodb.com/home">
+      <img align="center" alt="Mfr-MongoDB" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/mongo-db.png">
+    </a>
+    <a href="https://www.microsoft.com/pt-br/sql-server">
+      <img align="center" alt="Mfr-SqlServer" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/microsoft-sql-server.png">
+    </a>
+    <a href="https://firebase.google.com/?hl=pt">
+      <img align="center" alt="Mfr-Firebase" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/firebase.png">
+    </a>
+    <a href="https://www.mysql.com/">
+      <img align="center" alt="Mfr-MySql" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/mysql.png">
+    </a>
+    <a href="https://www.oracle.com/br/database/">
+      <img align="center" alt="Mfr-Oracle" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/oracle.png">
     </a>
   </div>
 </div>
