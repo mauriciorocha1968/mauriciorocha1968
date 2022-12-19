@@ -20,7 +20,7 @@
   width: 30px;
   height: 30px;
 }
-img {
+.myImg {
   width: 100%
 }
 </style>
@@ -72,7 +72,7 @@ img {
       </a>
       <div class="myDiv">
       <a href="https://www.mongodb.com/home" target="_blank">
-        <img alt="Mfr-MongoDB"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/mongo-db.png">
+        <img class="myImg" alt="Mfr-MongoDB"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/mongo-db.png">
       </a>
       </div>
       <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank">
