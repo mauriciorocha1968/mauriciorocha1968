@@ -10,6 +10,21 @@
 
 ### Minhas atividades no GitHub
 
+<head>
+<style>
+.myDiv {
+  border: 1px outset red;
+  background-color: white;    
+  text-align: center;
+  border-radius: 100%;
+  width: 30px;
+  height: 30px;
+}
+img {
+  width: 100%
+}
+</style>
+</head>
 <div align="center">
   <a href="https://github.com/mauriciorocha1968">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mauriciorocha1968&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -55,9 +70,11 @@
       <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
         <img align="center" alt="Mfr-Csharp" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/csharp-svgrepo-com.svg">
       </a>
+      <div class="myDiv">
       <a href="https://www.mongodb.com/home" target="_blank">
-        <img align="center" alt="Mfr-MongoDB" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/mongo-db.png">
+        <img alt="Mfr-MongoDB"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/mongo-db.png">
       </a>
+      </div>
       <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank">
         <img align="center" alt="Mfr-SqlServer" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/microsoft-sql-server.png">
       </a>
@@ -67,7 +84,7 @@
       <a href="https://www.mysql.com/" target="_blank">
         <img align="center" alt="Mfr-MySql" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/mysql.png">
       </a>
-      <a href="https://www.oracle.com/br/database/" target="_blank">Oracle
+      <a href="https://www.oracle.com/br/database/" target="_blank">
         <img align="center" alt="Mfr-Oracle" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/oracle.png">
       </a>
     </div>
