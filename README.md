@@ -48,27 +48,28 @@
   </div>
   <br/>
   <div align="center" >
-    <a href="https://www.embarcadero.com/br/products/delphi">
-      <img align="center" alt="Mfr-Delphi" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/delphi-svgrepo-com.svg">
-    </a>
-    <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">
-      <img align="center" alt="Mfr-Csharp" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/csharp-svgrepo-com.svg">
-    </a>
-    <a href="https://www.mongodb.com/home">
-      <img align="center" alt="Mfr-MongoDB" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/mongo-db.png">
-    </a>
-    <a href="https://www.microsoft.com/pt-br/sql-server">
-      <img align="center" alt="Mfr-SqlServer" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/microsoft-sql-server.png">
-    </a>
-    <a href="https://firebase.google.com/?hl=pt">
-      <img align="center" alt="Mfr-Firebase" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/firebase.png">
-    </a>
-    <a href="https://www.mysql.com/">
-      <img align="center" alt="Mfr-MySql" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/mysql.png">
-    </a>
-    <a href="https://www.oracle.com/br/database/">
-      <img align="center" alt="Mfr-Oracle" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/oracle.png">
-    </a>
-
+    <div style="display: inline_block">
+      <a href="https://www.embarcadero.com/br/products/delphi">
+        <img align="center" alt="Mfr-Delphi" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/delphi-svgrepo-com.svg">
+      </a>
+      <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">
+        <img align="center" alt="Mfr-Csharp" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/csharp-svgrepo-com.svg">
+      </a>
+      <a href="https://www.mongodb.com/home">
+        <img align="center" alt="Mfr-MongoDB" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/mongo-db.png">
+      </a>
+      <a href="https://www.microsoft.com/pt-br/sql-server">
+        <img align="center" alt="Mfr-SqlServer" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/microsoft-sql-server.png">
+      </a>
+      <a href="https://firebase.google.com/?hl=pt">
+        <img align="center" alt="Mfr-Firebase" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/firebase.png">
+      </a>
+      <a href="https://www.mysql.com/">
+        <img align="center" alt="Mfr-MySql" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/mysql.png">
+      </a>
+      <a href="https://www.oracle.com/br/database/">
+        <img align="center" alt="Mfr-Oracle" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/oracle.png">
+      </a>
+    </div>
   </div>
 </div>
