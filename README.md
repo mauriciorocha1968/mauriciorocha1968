@@ -6,7 +6,7 @@
 
 ### Meu objetivo
 
-- Ser especialista em desenvolvimento Web e Mobile com Next.JS e React Native e poder ajudar a comunidade de alguma forma.
+- Aperfeiçoar os conhecimentos adquiridos durante estes mais de 30 anos em desenvolvimento de sistemas e poder ajudar a comunidade de alguma forma.
 
 ### Minhas atividades no GitHub
 
