@@ -78,7 +78,7 @@
         <img align="center" alt="Mfr-MySql" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/mysql.png">
       </a>
       <a href="https://www.oracle.com/br/database/" target="_blank">
-        <img align="center" alt="Mfr-Oracle" height="40" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/oracle.png">
+        <img align="center" alt="Mfr-Oracle" height="35" width="35"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/oracle.png">
       </a>
     </div>
   </div>
