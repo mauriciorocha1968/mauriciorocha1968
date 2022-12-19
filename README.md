@@ -19,17 +19,37 @@
 <div align="center">
   <div style="display: inline_block">
     <a href="https://www.embarcadero.com/br/products/delphi">
-    <img align="center" alt="Mfr-Delphi" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/delphi-svgrepo-com.svg">
+      <img align="center" alt="Mfr-Delphi" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/delphi-svgrepo-com.svg">
     </a>
-    <img align="center" alt="Mfr-VCode" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/visual-studio-code-logo-svgrepo-com.svg">  
-    <img align="center" alt="Mfr-Csharp" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/csharp-svgrepo-com.svg">
-    <img align="center" alt="Mfr-Javascript" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/javascript-svgrepo-com.svg">
-    <img align="center" alt="Mfr-Html5" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/html5-svgrepo-com.svg">
-    <img align="center" alt="Mfr-Css3" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/css3-logo-svgrepo-com.svg">
-    <img align="center" alt="Mfr-Typescript" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/typescript-svgrepo-com.svg">  
-    <img align="center" alt="Mfr-Node" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/nodejs-icon-svgrepo-com.svg">
-    <img align="center" alt="Mfr-Next" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/next-js-svgrepo-com.svg">
-    <img align="center" alt="Mfr-ReactNative" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/react-svgrepo-com.svg">
-    <img align="center" alt="Mfr-DevExpress" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/devexpress.png">
+    <a href="https://code.visualstudio.com/">
+      <img align="center" alt="Mfr-VCode" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/visual-studio-code-logo-svgrepo-com.svg">  
+    </a>
+    <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">
+      <img align="center" alt="Mfr-Csharp" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/csharp-svgrepo-com.svg">
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+      <img align="center" alt="Mfr-Javascript" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/javascript-svgrepo-com.svg">
+    </a>
+    <a href="https://www.w3c.br/Cursos/CursoHTML5">
+      <img align="center" alt="Mfr-Html5" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/html5-svgrepo-com.svg">
+    </a>
+    <a href="https://www.w3c.br/Cursos/CursoCSS3/">
+      <img align="center" alt="Mfr-Css3" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/css3-logo-svgrepo-com.svg">
+    </a>
+    <a href="https://www.typescriptlang.org/">
+      <img align="center" alt="Mfr-Typescript" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/typescript-svgrepo-com.svg">  
+    </a>
+    <a href="https://nodejs.org/en/">
+      <img align="center" alt="Mfr-Node" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/nodejs-icon-svgrepo-com.svg">
+    </a>
+    <a href="https://nextjs.org/">
+      <img align="center" alt="Mfr-Next" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/next-js-svgrepo-com.svg">
+    </a>
+    <a href="https://reactnative.dev/">
+      <img align="center" alt="Mfr-ReactNative" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/react-svgrepo-com.svg">
+    </a>
+    <a href="https://www.devexpress.com/">
+      <img align="center" alt="Mfr-DevExpress" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/devexpress.png">
+    </a>
   </div>
 </div>
