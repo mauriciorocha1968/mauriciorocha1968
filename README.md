@@ -42,16 +42,13 @@
     <a href="https://reactnative.dev/">
       <img align="center" alt="Mfr-ReactNative" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/react-svgrepo-com.svg">
     </a>
-    <div style="border-radius: 100%;
-    overflow: hidden;
-    height: 30px;
-    width:30px;
-    background: yellow;">
     <a href="https://www.devexpress.com/">
       <img align="center" alt="Mfr-DevExpress" width="100%"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/devexpress.png"  >
     </a>
-    </div>
-  </div>
+    <div class=" border-radius: 50%;
+  background-position: -15px -15px;
+  height: 195px;
+  width: 195px;" style="background-image: url(http://i.stack.imgur.com/AyzfI.jpg)"></div>  </div>
   <br/>
   <div align="center" >
     <div style="display: inline_block">
