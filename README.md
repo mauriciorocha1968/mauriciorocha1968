@@ -10,16 +10,6 @@
 
 ### Minhas atividades no GitHub
 
-<head>
-<style>
-.myDiv {
-  border: 5px outset red;
-  background-color: lightblue;    
-  text-align: center;
-  border-radius: 100%
-}
-</style>
-</head>
 <div align="center" >
   <a href="https://github.com/mauriciorocha1968">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mauriciorocha1968&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
