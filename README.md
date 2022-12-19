@@ -1,12 +1,15 @@
 ## Maurício Fernandes da Rocha
-- Diretor da [KM Inova](https://kminova.dev) onde prestamos consultoria em Delphi com banco de dados relacionais como MS-SQL Server, Oracle, Informix e Firebird. 
+
+- Diretor da [KMInova](https://kminova.dev) onde prestamos consultoria em informática com desenvolvimento de sistemas utilizando Node.js, Nest.js, React, Delphi com banco de dados relacionais como MS-SQL Server, Oracle, Informix, Firebird e banco de dados NoSQL como MongoDB.
 - Embaixador Universitário pela [DIO Experts](https://dio.me/sign-up?ref=8QDRNPHWXD) para treinamentos gratuitos on-line.
-- Estudando MongoDB, Firebase, Typescript, Node.js, Next.JS, React e React Native.
+- Atualmente fazendo projetos com MongoDB, Firebase, Typescript, Node.js, Next.JS, React, React Native e DevExtreme.
 
 ### Meu objetivo
+
 - Ser especialista em desenvolvimento Web e Mobile com Next.JS e React Native e poder ajudar a comunidade de alguma forma.
 
 ### Minhas atividades no GitHub
+
 <div align="center">
   <a href="https://github.com/mauriciorocha1968">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mauriciorocha1968&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -25,5 +28,6 @@
     <img align="center" alt="Mfr-Node" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/nodejs-icon-svgrepo-com.svg">
     <img align="center" alt="Mfr-Next" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/next-js-svgrepo-com.svg">
     <img align="center" alt="Mfr-ReactNative" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/react-svgrepo-com.svg">
+    <img align="center" alt="Mfr-DevExpress" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/devexpress.png">
   </div>
 </div>
