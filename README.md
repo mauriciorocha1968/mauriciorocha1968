@@ -53,7 +53,7 @@
       <img align="center" alt="Mfr-ReactNative" height="30" width="40"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/react-svgrepo-com.svg">
     </a>
     <a href="https://www.devexpress.com/" target="_blank">
-      <img align="center" alt="Mfr-DevExpress" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/devexpress.png"  >
+      <img align="center" alt="Mfr-DevExpress" height="30" width="30"  src="https://github.com/mauriciorocha1968/mauriciorocha1968/blob/main/Imagens/devexpress.png" style="border-radius: 100%" >
     </a>
   </div>
   <br/>
