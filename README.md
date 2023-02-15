@@ -1,12 +1,16 @@
 ## Maurício Fernandes da Rocha
 
-- Diretor da [KMInova](https://kminova.dev) onde prestamos consultoria em informática com desenvolvimento de sistemas utilizando Node.js, Nest.js, React, Delphi com banco de dados relacionais como MS-SQL Server, Oracle, MySql, Firebird e banco de dados NoSQL como MongoDB.
-- Embaixador Universitário pela [DIO Experts](https://dio.me/sign-up?ref=8QDRNPHWXD) para treinamentos gratuitos on-line.
-- Atualmente fazendo projetos com MongoDB, Firebase, Typescript, Node.js, Next.JS, React, React Native e DevExtreme.
+- Diretor da [KMInova](https://kminova.dev). 
+- Faço consultoria em informática com desenvolvimento de sistemas utilizando Node.js, Nest.js, React, React Native, Typescript e Delphi. 
+- Utilizo banco de dados relacionais como MS-SQL Server, Oracle, MySql, Firebird.
+- Também trabalho com banco de dados NoSQL como MongoDB.
+- Embaixador Universitário na [DIO Experts](https://dio.me/sign-up?ref=8QDRNPHWXD) para treinamentos gratuitos on-line.
 
-### Meu objetivo
 
-- Aperfeiçoar os conhecimentos adquiridos durante estes mais de 30 anos em desenvolvimento de sistemas e poder ajudar a comunidade de alguma forma.
+### Objetivo
+
+- Continuar aperfeiçoando os conhecimentos adquiridos durante estes mais de 30 anos em desenvolvimento de sistemas.
+- Poder ajudar a comunidade de alguma forma.
 
 ### Minhas atividades no GitHub
 
