@@ -16,8 +16,8 @@
 
 <div align="center" >
   <a href="https://github.com/mauriciorocha1968">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mauriciorocha1968&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciorocha1968&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mauriciorocha1968&show_icons=true&theme=dark&include_all_commits=true&count_private=true&PAT_1"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciorocha1968&layout=compact&langs_count=7&theme=dark&PAT_1"/>
 </div>
 <br> 
 <div align="center">
