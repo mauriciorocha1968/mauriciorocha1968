@@ -3,31 +3,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mauriciorocha1968&show_icons=true&theme=dark&include_all_commits=true&count_private=true&PAT_1"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciorocha1968&layout=compact&langs_count=7&theme=dark&PAT_1"/>
 </div>
-
-## Maurício Fernandes da Rocha
-
-- Diretor da [KMInova](https://kminova.dev).
-- Consultoria em informática com desenvolvimento de sistemas utilizando Node.js, Nest.js, React, React Native, Typescript, Delphi e C#.
-- Banco de dados relacionais como MS-SQL Server, Oracle, MySql, Firebird.
-- Banco de dados NoSQL como MongoDB e Firebase.
-
-#### Objetivo
-
-- Continuar aperfeiçoando os conhecimentos adquiridos durante estes mais de 30 anos em desenvolvimento de sistemas.
-- Poder ajudar a comunidade de alguma forma.
-
-#### Conquistas
-
-- Certificado Microsoft em Windows 95
-- Certificado Borland Training Center
-- Certificado Microsoft AspNet
-- Embaixador Universitário na [DIO Experts](https://dio.me/sign-up?ref=8QDRNPHWXD) para treinamentos gratuitos on-line.
-
-### Clientes
-
-- [Produsoft](https://produsoft.com.br) Sistema de Gestão de Frotas e Transportes
-- [Evolution Grupo](http://evolutiongrupo.com.br) Jogos de Poker on Line - (PPPoker)
-
 <br> 
 <div align="center">
   <div style="display: inline_block">
@@ -87,3 +62,27 @@
 
   </div>
 </div>
+
+## Maurício Fernandes da Rocha
+
+- Diretor da [KMInova](https://kminova.dev).
+- Consultoria em informática com desenvolvimento de sistemas utilizando Node.js, Nest.js, React, React Native, Typescript, Delphi e C#.
+- Banco de dados relacionais como MS-SQL Server, Oracle, MySql, Firebird.
+- Banco de dados NoSQL como MongoDB e Firebase.
+
+#### Objetivo
+
+- Continuar aperfeiçoando os conhecimentos adquiridos durante estes mais de 30 anos em desenvolvimento de sistemas.
+- Poder ajudar a comunidade de alguma forma.
+
+#### Conquistas
+
+- Certificado Microsoft em Windows 95
+- Certificado Borland Training Center
+- Certificado Microsoft AspNet
+- Embaixador Universitário na [DIO Experts](https://dio.me/sign-up?ref=8QDRNPHWXD) para treinamentos gratuitos on-line.
+
+### Clientes
+
+- [Produsoft](https://produsoft.com.br) Sistema de Gestão de Frotas e Transportes
+- [Evolution Grupo](http://evolutiongrupo.com.br) Jogos de Poker on Line - (PPPoker)
