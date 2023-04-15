@@ -1,3 +1,9 @@
+<div align="center" >
+  <a href="https://github.com/mauriciorocha1968">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mauriciorocha1968&show_icons=true&theme=dark&include_all_commits=true&count_private=true&PAT_1"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciorocha1968&layout=compact&langs_count=7&theme=dark&PAT_1"/>
+</div>
+
 ## Maurício Fernandes da Rocha
 
 - Diretor da [KMInova](https://kminova.dev).
@@ -22,13 +28,6 @@
 - [Produsoft](https://produsoft.com.br) Sistema de Gestão de Frotas e Transportes
 - [Evolution Grupo](http://evolutiongrupo.com.br) Jogos de Poker on Line - (PPPoker)
 
-### Minhas atividades no GitHub
-
-<div align="center" >
-  <a href="https://github.com/mauriciorocha1968">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mauriciorocha1968&show_icons=true&theme=dark&include_all_commits=true&count_private=true&PAT_1"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciorocha1968&layout=compact&langs_count=7&theme=dark&PAT_1"/>
-</div>
 <br> 
 <div align="center">
   <div style="display: inline_block">
